@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cytryk1
-- 🌱 I’m currently learning HTML/CSS/JS
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C#/unity engine
+
 
 <!---
 cytryk1/cytryk1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
